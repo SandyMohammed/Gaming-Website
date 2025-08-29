@@ -505,7 +505,7 @@ header{
         font-size: 70px;
     }
     .next-btn{
-        left: 2%;
+        left: 25%;
         top: 44%;
     }
     .about-section{
@@ -558,3 +558,4 @@ header{
     }
 
 }
+
